@@ -5,4 +5,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #python:alpine3.19
 #ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlepaddle/paddlex-genai-vllm-server
-ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.1.2-paddlepaddle3.0.0-gpu-cuda11.8-cudnn8.9-trt8.6
+#ccr-2vdh3abv-pub.cnc.bj.baidubce.com/paddlex/paddlex:paddlex3.1.2-paddlepaddle3.0.0-gpu-cuda11.8-cudnn8.9-trt8.6
+registry.baidubce.com/device/paddle-npu:cann80RC1-ubuntu20-aarch64-gcc84-py310
